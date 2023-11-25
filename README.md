@@ -6,8 +6,9 @@ This is my firts project in html and css: a **Google clone Interface** 🤗
 
 ### Elements:
 <ol>
-  <li>Navigation me</li>
+  <li>Navigation menu</li>
   <li>Logo and search input</li>
+  <li>Footer menu</li>
 </ol>
 
 ### Preview
